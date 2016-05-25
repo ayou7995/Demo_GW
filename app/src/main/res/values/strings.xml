@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Demo_GW</string>
+    <string name="scan">SCAN</string>
+    <string name="address_title">Address</string>
+    <string name="address">18:7A:93:15:08:0B</string>
+    <string name="did_title">Device ID</string>
+    <string name="gid_title">Group ID </string>
+    <string name="rssi">-66</string>
+    <string name="device">Device</string>
+    <string name="group">Group</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string-array name="groupList">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="deviceList">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
